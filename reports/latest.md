@@ -1,4 +1,4 @@
-# Daily report - 2026-10-14
+# Daily report - 2026-10-15
 
 **Mode:** PAPER (no real money)
 **Equity:** 100,000 (+0.00% vs last run) | **Cash:** 100,000
@@ -19,21 +19,21 @@
 - No data yet
 
 ## New strategy search (avg out-of-sample Sharpe, share of symbols beating buy-and-hold)
-- meanrev(25, 55): Sharpe 0.31, beat B&H on 67%
-- meanrev(30, 60): Sharpe 0.21, beat B&H on 83%
-- meanrev(30, 55): Sharpe 0.04, beat B&H on 67%
-- trend(50, 200): Sharpe -0.20, beat B&H on 83%
-- breakout(100,): Sharpe -0.31, beat B&H on 67%
+- meanrev(25, 55): Sharpe 0.30, beat B&H on 67%
+- meanrev(30, 60): Sharpe 0.24, beat B&H on 83%
+- meanrev(30, 55): Sharpe 0.08, beat B&H on 67%
+- trend(50, 200): Sharpe -0.14, beat B&H on 67%
+- breakout(100,): Sharpe -0.30, beat B&H on 50%
 
 ## Stock research shortlist (fundamentals rank, NOT a buy recommendation)
 ```
                    pe    roe  rev_growth  earn_growth  debt_to_equity  score
 symbol                                                                      
-POLYCAB.NS     43.733  0.255       0.390        0.325           1.738   13.0
-PERSISTENT.NS  48.285  0.252       0.291        0.121           6.940    3.0
-BHARTIARTL.NS  37.513  0.202       0.184        0.351         100.415   -1.0
+POLYCAB.NS     43.061  0.255       0.390        0.325           1.738   13.0
+PERSISTENT.NS  47.810  0.252       0.291        0.121           6.940    3.0
+BHARTIARTL.NS  38.187  0.202       0.184        0.351         100.415   -1.0
 TATAMOTORS.NS     NaN    NaN         NaN          NaN             NaN    NaN
-ITC.NS         16.509    NaN      -0.111       -0.160           3.293    NaN
+ITC.NS         16.660    NaN      -0.111       -0.160           3.293    NaN
 ```
 
 _Not financial advice. Paper results do not guarantee live results._
