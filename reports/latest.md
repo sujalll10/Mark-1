@@ -1,4 +1,4 @@
-# Daily report - 2026-10-21
+# Daily report - 2026-10-22
 
 **Mode:** PAPER (no real money)
 **Equity:** 100,000 (+0.00% vs last run) | **Cash:** 100,000
@@ -19,21 +19,21 @@
 - No data yet
 
 ## New strategy search (avg out-of-sample Sharpe, share of symbols beating buy-and-hold)
-- meanrev(25, 55): Sharpe 0.21, beat B&H on 67%
-- meanrev(30, 60): Sharpe 0.20, beat B&H on 83%
-- meanrev(30, 55): Sharpe 0.02, beat B&H on 67%
-- trend(20, 100): Sharpe -0.03, beat B&H on 67%
-- trend(50, 200): Sharpe -0.09, beat B&H on 67%
+- meanrev(25, 55): Sharpe 0.15, beat B&H on 67%
+- meanrev(30, 60): Sharpe 0.14, beat B&H on 83%
+- meanrev(30, 55): Sharpe -0.02, beat B&H on 67%
+- trend(20, 100): Sharpe -0.06, beat B&H on 67%
+- trend(50, 200): Sharpe -0.16, beat B&H on 67%
 
 ## Stock research shortlist (fundamentals rank, NOT a buy recommendation)
 ```
                    pe    roe  rev_growth  earn_growth  debt_to_equity  score
 symbol                                                                      
-POLYCAB.NS     37.027  0.268       0.528        0.425           2.054   17.0
-BAJFINANCE.NS  26.586  0.190       0.267        0.284         342.416    5.0
-PERSISTENT.NS  51.247  0.229       0.303       -0.263           6.696    2.0
-BHARTIARTL.NS  39.542  0.202       0.184        0.351         100.415   -1.0
-IRFC.NS        13.617  0.126       0.101        0.103         715.064   -4.0
+POLYCAB.NS     36.553  0.268       0.528        0.425           2.054   17.0
+BAJFINANCE.NS  27.049  0.190       0.267        0.284         342.416    5.0
+PERSISTENT.NS  50.214  0.229       0.303       -0.263           6.696    2.0
+BHARTIARTL.NS  39.611  0.202       0.184        0.351         100.415   -1.0
+IRFC.NS        13.652  0.126       0.101        0.103         715.064   -4.0
 ```
 
 _Not financial advice. Paper results do not guarantee live results._
