@@ -1,4 +1,4 @@
-# Daily report - 2026-11-21
+# Daily report - 2026-11-22
 
 **Mode:** PAPER (no real money)
 **Equity:** 100,000 (+0.00% vs last run) | **Cash:** 100,000
@@ -21,8 +21,8 @@
 ## New strategy search (avg out-of-sample Sharpe, share of symbols beating buy-and-hold)
 - trend(20, 100): Sharpe 0.00, beat B&H on 50%
 - breakout(55,): Sharpe -0.00, beat B&H on 50%
-- meanrev(30, 60): Sharpe -0.03, beat B&H on 67%
-- meanrev(25, 55): Sharpe -0.05, beat B&H on 50%
+- meanrev(30, 60): Sharpe -0.02, beat B&H on 67%
+- meanrev(25, 55): Sharpe -0.04, beat B&H on 50%
 - breakout(100,): Sharpe -0.17, beat B&H on 50%
 
 ## Stock research shortlist (fundamentals rank, NOT a buy recommendation)
